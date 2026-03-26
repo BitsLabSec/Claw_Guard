@@ -21,9 +21,9 @@
 
 ## 安装
 
-```bash
-openclaw skills install Claw_Guard
-```
+只需要把这段话发给你的 Agent：
+
+帮我安装 Claw_Guard ，仓库地址是 https://github.com/BitsLabSec/Claw_Guard
 
 ## 兼容代理
 
