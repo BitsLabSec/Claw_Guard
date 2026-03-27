@@ -21,9 +21,20 @@
 
 ## 安装
 
+对于 OpenClaw、NanoBot、PoCaw、LobsterAI
+
 只需要把这段话发给你的 Agent：
 
-帮我安装 Claw_Guard ，仓库地址是 https://github.com/BitsLabSec/Claw_Guard
+```
+  帮我安装 Claw_Guard ，仓库地址是 https://github.com/BitsLabSec/Claw_Guard
+```
+
+对于 ZeroClaw
+
+```
+  zeroclaw skills install https://github.com/BitsLabSec/Claw_Guard
+```
+
 
 ## 兼容代理
 

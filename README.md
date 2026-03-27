@@ -23,9 +23,22 @@ This skill helps agents perform secure skill-hash verification and guard/report 
 
 ## Installation
 
+For OpenClaw、NanoBot、PoCaw、LobsterAI
+
 Just send this message to your agent:
 
-Please install Claw_Guard. The repository URL is https://github.com/BitsLabSec/Claw_Guard.
+```
+  Please install the Claw_Guard skill. The repository URL is https://github.com/BitsLabSec/Claw_Guard.
+```
+
+For ZeroClaw
+
+Run the command in your terminal:
+
+```
+  zeroclaw skills install https://github.com/BitsLabSec/Claw_Guard
+```
+
 
 ## Compatible Agents
 
